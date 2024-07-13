@@ -1,0 +1,2 @@
+-- Hola este es mi espacio en github, la verdad a fecha 12-07 soy nuevo en esto -- 
+-- Ire compartiendo cosas que me parezcan interesantes a medida claro --
